@@ -1,0 +1,43 @@
+.row-4{
+color: brown;
+}
+body{
+    background: rgb(160, 158, 158);
+    font-family: 'Pattaya', sans-serif;
+}
+.tet{
+    font-family: 'Lobster', cursive;
+    color: darkblue;
+    background-color: rgba(0, 107, 230, 0.445);
+}     
+.container{
+    box-shadow: 3px 3px 5px rgb(37, 34, 34);
+
+}
+.blue{
+    background-color: #000bfc;
+    color: #b1cbd4;
+}
+.red{
+    background-color: #000bfc;
+    color: #b1cbd4;
+}
+.green{
+    background-color: #cc1c2a;
+    color: #c75a11;
+}
+.card-header>a{
+text-decoration: none;
+color: brown;
+font-weight: 900;
+font-size: 1.3rem;
+}
+.card-header>a:hover{
+color: burlywood;
+}
+.nav-link{
+    font-family: 'Lobster', cursive;
+}
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+}
